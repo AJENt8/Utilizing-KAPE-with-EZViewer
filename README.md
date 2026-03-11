@@ -36,10 +36,7 @@
 ### 2) GUI + CLI Usage
 - Practiced using the **KAPE GUI** for target/module selection and collection setup  
 - Practiced using the **KAPE CLI** for faster artifact collection and parsing workflows  
-- Used command-line execution with:
-- ```bash
-  !EZParser
-to process and review forensic artifacts through EZ Tools
+- Used command-line execution with `!EZParser` to process and review forensic artifacts through EZ Tools
 
 ### 3) Investigative Focus
 - The scenario involved determining whether a user violated organization policy by:
